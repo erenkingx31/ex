@@ -52,9 +52,9 @@ G2L["7"] = Instance.new("Script", G2L["1"]);
 -- StarterGui.exec.Frame
 G2L["8"] = Instance.new("Frame", G2L["1"]);
 G2L["8"]["BackgroundColor3"] = Color3.fromRGB(54, 209, 144);
-G2L["8"]["Size"] = UDim2.new(0, 670, 0, 453);
+G2L["8"]["Size"] = UDim2.new(0, 670, 0, 387);
 G2L["8"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
-G2L["8"]["Position"] = UDim2.new(0.1220889538526535, 0, -0.0008513992070220411, 0);
+G2L["8"]["Position"] = UDim2.new(-0.0003352864587213844, 0, -0.0008513992070220411, 0);
 
 -- StarterGui.exec.Frame.Made by
 G2L["9"] = Instance.new("TextLabel", G2L["8"]);
@@ -152,9 +152,9 @@ G2L["14"] = Instance.new("ImageLabel", G2L["8"]);
 G2L["14"]["BorderSizePixel"] = 0;
 G2L["14"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
 G2L["14"]["Image"] = [[rbxasset://textures/ui/GuiImagePlaceholder.png]];
-G2L["14"]["Size"] = UDim2.new(0, 133, 0, 130);
+G2L["14"]["Size"] = UDim2.new(0, 133, 0, 117);
 G2L["14"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
-G2L["14"]["Position"] = UDim2.new(0, 0, 0.5321428775787354, 0);
+G2L["14"]["Position"] = UDim2.new(0, 0, 0.4856312572956085, 0);
 
 -- StarterGui.exec.Frame.ImageLabel.Script
 G2L["15"] = Instance.new("Script", G2L["14"]);
@@ -176,7 +176,7 @@ G2L["17"]["Size"] = UDim2.new(0, 370, 0, 104);
 G2L["17"]["ClipsDescendants"] = true;
 G2L["17"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
 G2L["17"]["Name"] = [[name]];
-G2L["17"]["Position"] = UDim2.new(0, 0, 0.7805507779121399, 0);
+G2L["17"]["Position"] = UDim2.new(0, 0, 0.7288711667060852, 0);
 
 -- StarterGui.exec.Frame.name.Script
 G2L["18"] = Instance.new("Script", G2L["17"]);
@@ -275,7 +275,7 @@ G2L["24"]["Size"] = UDim2.new(0, 97, 0, 20);
 G2L["24"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
 G2L["24"]["Text"] = [[New Speed Control bar]];
 G2L["24"]["Name"] = [[an 2]];
-G2L["24"]["Position"] = UDim2.new(0.27663519978523254, 0, 0.6324453949928284, 0);
+G2L["24"]["Position"] = UDim2.new(0.2751426696777344, 0, 0.6091895699501038, 0);
 
 -- StarterGui.exec.Frame.FLY
 G2L["25"] = Instance.new("TextButton", G2L["8"]);
@@ -456,7 +456,7 @@ G2L["3e"]["TextColor3"] = Color3.fromRGB(0, 0, 0);
 G2L["3e"]["Size"] = UDim2.new(0, 208, 0, -7);
 G2L["3e"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
 G2L["3e"]["Text"] = [[]];
-G2L["3e"]["Position"] = UDim2.new(0.1716129034757614, 0, 0.543908953666687, 0);
+G2L["3e"]["Position"] = UDim2.new(0.1716129183769226, 0, 0.5077332258224487, 0);
 
 -- StarterGui.exec.Frame.TextLabel
 G2L["3f"] = Instance.new("TextLabel", G2L["8"]);
@@ -481,7 +481,7 @@ G2L["40"]["TextColor3"] = Color3.fromRGB(0, 0, 0);
 G2L["40"]["Size"] = UDim2.new(0, 30, 0, 30);
 G2L["40"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
 G2L["40"]["Text"] = [[Updates]];
-G2L["40"]["Position"] = UDim2.new(0.2774193584918976, 0, 0.5438931584358215, 0);
+G2L["40"]["Position"] = UDim2.new(0.28786712884902954, 0, 0.5077174305915833, 0);
 
 -- StarterGui.exec.Frame.an 1
 G2L["41"] = Instance.new("TextLabel", G2L["8"]);
@@ -494,7 +494,7 @@ G2L["41"]["Size"] = UDim2.new(0, 97, 0, 20);
 G2L["41"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
 G2L["41"]["Text"] = [[New GUİ ]];
 G2L["41"]["Name"] = [[an 1]];
-G2L["41"]["Position"] = UDim2.new(0.20594127476215363, 0, 0.5939242839813232, 0);
+G2L["41"]["Position"] = UDim2.new(0.2372845560312271, 0, 0.5732524394989014, 0);
 
 -- StarterGui.exec.Frame.an 3
 G2L["42"] = Instance.new("TextLabel", G2L["8"]);
@@ -507,7 +507,7 @@ G2L["42"]["Size"] = UDim2.new(0, 97, 0, 20);
 G2L["42"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
 G2L["42"]["Text"] = [[New Emotes Bar]];
 G2L["42"]["Name"] = [[an 3]];
-G2L["42"]["Position"] = UDim2.new(0.25421279668807983, 0, 0.6752734184265137, 0);
+G2L["42"]["Position"] = UDim2.new(0.25421279668807983, 0, 0.6649374961853027, 0);
 
 -- StarterGui.exec.Frame.an 4
 G2L["43"] = Instance.new("TextLabel", G2L["8"]);
