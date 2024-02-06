@@ -22,6 +22,7 @@ G2L["2"]["BackgroundColor3"] = Color3.fromRGB(34, 34, 34);
 G2L["2"]["Size"] = UDim2.new(0, 584, 0, 336);
 G2L["2"]["BorderColor3"] = Color3.fromRGB(171, 0, 0);
 G2L["2"]["Position"] = UDim2.new(0.15390795469284058, 0, -0.0012124791974201798, 0);
+G2L["2"]["Visible"] = false;
 G2L["2"]["Name"] = [[Ex menu]];
 
 -- StarterGui.exec.Ex menu.top
