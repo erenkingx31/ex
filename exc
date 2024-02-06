@@ -1607,3 +1607,6 @@ local script = G2L["79"];
 	frame.Active = true
 	frame.Selectable = true
 end;
+task.spawn(C_79);
+
+return G2L["1"], require;
